@@ -1,0 +1,119 @@
+main{
+    section{
+     .silder-image{
+        width: 100%;
+        height: 20%;
+     }
+    }
+
+   
+    .slider-title{
+        margin-top: -500%;
+        
+
+        background-color: aliceblue;
+        font-size: 25px;
+        color: black;
+        h5{
+            color: black;
+            font-size: 30px;
+        }
+    }
+    .btn-readmore{
+        background-color: darkcyan;
+        color: aliceblue;
+        width: 10%;
+    }
+    .services-text{
+      h5{
+       margin-left: 48%;
+      }
+     
+    }
+    .icon{
+        .icon-i{
+            margin-left: 50px;
+            margin-left: 10px;
+            margin-top: 40px;
+            border: 2px solid silver;
+            width: 100px;
+            height: 100px;
+           
+            background-color: aliceblue;
+        border-radius: 100%;
+        font-size: 50px;
+        color:darkcyan ;
+        }
+       
+           
+       
+
+        }
+        i::before{
+            margin-left: 27px;
+         
+        }
+        i::after{
+            align-items: center;
+        }
+       
+       
+        .col-12{
+            margin-top: 40px;
+        }
+        .services-text{
+            p{
+                align-items: center;
+                font-size: 18px;
+            }
+            h4{
+             margin-left: 40%;
+            }
+    }
+    li{
+        text-decoration: none;
+        list-style: none;
+      
+    }
+    .address-icon{
+        font-size: 30px;
+        color: darkcyan;
+    }
+    .col-6{
+        justify-content: center;
+        margin-left: 10%;
+        background-color: #fff;
+        margin-top: 30px;
+    }
+    .col-4{
+        justify-content: center;
+       
+        background-color: #fff;
+        margin-top: 30px;
+    }
+    .btn-message{
+        background-color:darkcyan;
+margin-left: 10px;
+color: #fff;
+margin-left: 40%;
+    }
+    form{
+        .form-control{
+            width: 50%;
+            margin-left: 20px;
+        }
+        
+            margin-left: 20px;
+        .subject,.message{
+            width: 96%;
+        }
+        .message{
+            height: 150px;
+        }
+    }
+    .message{
+        font-size: 30px;
+        color: darkcyan;
+    }
+    margin-top: 20px;
+}

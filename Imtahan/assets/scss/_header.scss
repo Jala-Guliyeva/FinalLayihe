@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+ background-color: #fff;   
+}
+header{
+    background-color: #fff;
+    .nav-link{
+        color: black;
+    }
+    .nav{
+        
+            margin-left: 40%;
+        ul{
+            color: black;
+        }
+        li{
+           
+            align-items:flex-start;
+            justify-content: flex-end;
+          
+        }
+    }
+    a{
+        img{
+            margin-left: 60%;
+            justify-content: center;
+        }
+    }
+    .btn-make{
+background-color:darkcyan;
+margin-left: 10px;
+
+color: aliceblue;
+    }
+   
+    
+}
